@@ -1,4 +1,4 @@
-<img alt="Imagem do projeto" src="./img/banner.png"/>
+<img alt="Imagem do projeto" src="./images/banner_portfolio.png"/>
 
 <h1>Portfolio Profissional</h1>
 
@@ -9,9 +9,9 @@
 <h3>Acesse o projeto</h3><a href="https://gustavocrs.github.io/portfolio/">Clique Aqui</a> 
 
 <div><p><h3>Linguagens</h3></p>
-<img alt="Icone HTML" src="./img/banner.png"/> 
-<img alt="Icone CSS" src="./img/banner.png"/> 
-<img alt="Icone Javascript" src="./img/banner.png"/>
+<img alt="Icone HTML" src="./images/html.png"/> 
+<img alt="Icone CSS" src="./images/css.png"/> 
+<img alt="Icone Javascript" src="./images/js.png"/>
 </div>
 
 <p><h3>Autor:</h3> Gustavo Silva</p>
