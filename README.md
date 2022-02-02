@@ -3,7 +3,8 @@
 <img src="https://img.shields.io/badge/STATUS%20-Em%20contru%C3%A7%C3%A3o-yellow"/>
 
 <h3>Descrição do projeto</h3>
-<p>Portfólio profissional para apresentação dos projetos realizados e tecnologias conhecidas e demonstração dos conhecimentos obtidos.</p>
+<p>Portfólio profissional para apresentação dos projetos realizados e tecnologias conhecidas e demonstração dos conhecimentos obtidos.
+Responsividade para todas os tamanhos de telas</p>
 
 <h3>Acesse o projeto</h3><a href="https://gustavocrs.github.io/portfolio/">Clique Aqui</a> 
 
