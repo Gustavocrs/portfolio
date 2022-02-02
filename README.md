@@ -1,13 +1,17 @@
-NOME DO PROJETO: Portfolio Profissional
+<img alt="Imagem do projeto" src="./img/banner.png"/>
 
-DESCRIÇÃO: Portfólio - Em construção...
+<h1>Portfolio Profissional</h1>
 
-LINGUAGENS: HTML / CSS / Javascript
+<img src="https://img.shields.io/badge/STATUS%20-Em%20contru%C3%A7%C3%A3o-yellow"/>
 
-EM CURSO: REACT
+<p>Portfólio profissional para apresentação dos projetos realizados e tecnologias conhecidas e demonstração dos conhecimentos obtidos.</p>
 
-PRÓXIMO APRENDIZADO: Angular / SQL / .NET
+<a href="https://gustavocrs.github.io/portfolio/"> Clique e veja</a>
 
-FONTE: Criação própria
+<p>Linguagens</p>
+<img alt="Icone HTML" src="./img/banner.png"/>
+<img alt="Icone CSS" src="./img/banner.png"/>
+<img alt="Icone Javascript" src="./img/banner.png"/>
 
-https://gustavocrs.github.io/portfolio
+
+<p>Autor:</p>Gustavo Silva
