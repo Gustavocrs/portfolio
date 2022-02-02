@@ -14,4 +14,4 @@
 <img alt="Icone Javascript" src="./images/js.png" style="width:100px;height:100px"/>
 </div>
 
-<p><h3>Autor:</h3> Gustavo Silva</p>
+<p><h3>Autor</h3> Gustavo Silva</p>
