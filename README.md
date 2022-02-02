@@ -8,10 +8,10 @@
 
 <h3>Acesse o projeto</h3><a href="https://gustavocrs.github.io/portfolio/">Clique Aqui</a> 
 
-<p><h3>Linguagens</h3>
+<div><p><h3>Linguagens</h3></p>
 <img alt="Icone HTML" src="./img/banner.png"/> 
 <img alt="Icone CSS" src="./img/banner.png"/> 
 <img alt="Icone Javascript" src="./img/banner.png"/>
-</p>
+</div>
 
 <p><h3>Autor:</h3> Gustavo Silva</p>
