@@ -6,13 +6,12 @@
 
 <p>Portfólio profissional para apresentação dos projetos realizados e tecnologias conhecidas e demonstração dos conhecimentos obtidos.</p>
 
-<a href="https://gustavocrs.github.io/portfolio/"> Clique e veja</a>
+<a href="https://gustavocrs.github.io/portfolio/"> <h3>CLIQUE AQUI para acessar</h3></a>
 
-<div>
-<p>Linguagens</p> 
+<p><h3>Linguagens</h3>
 <img alt="Icone HTML" src="./img/banner.png"/> 
 <img alt="Icone CSS" src="./img/banner.png"/> 
 <img alt="Icone Javascript" src="./img/banner.png"/>
-</div>
+</p>
 
-<p>Autor:Gustavo Silva</p>
+<p><h3>Autor:</h3> Gustavo Silva</p>
