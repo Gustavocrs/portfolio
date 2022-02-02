@@ -6,7 +6,7 @@
 
 <p>Portfólio profissional para apresentação dos projetos realizados e tecnologias conhecidas e demonstração dos conhecimentos obtidos.</p>
 
-<a href="https://gustavocrs.github.io/portfolio/"> <h3>CLIQUE AQUI para acessar</h3></a>
+<h3>Acesse o projeto</h3><a href="https://gustavocrs.github.io/portfolio/">Clique Aqui</a> 
 
 <p><h3>Linguagens</h3>
 <img alt="Icone HTML" src="./img/banner.png"/> 
