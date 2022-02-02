@@ -1,5 +1,3 @@
-@import url('./css/estiloDesign.css');
-
 .divProjetos {
     display: flex;
     flex-wrap: wrap;

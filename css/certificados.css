@@ -1,10 +1,5 @@
-@import url('./css/estiloDesign.css');
 a {
     text-decoration: none;
-}
-
-a:hover {
-    background-color: var(--cor5);
 }
 
 .divCertificados {
