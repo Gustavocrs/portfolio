@@ -19,6 +19,10 @@ a {
     padding: 25px 0;
 }
 
+.linkCertificados:hover {
+    background-color: var(--cor5);
+}
+
 .listaCertificados {
     display: flex;
     width: 200px;
