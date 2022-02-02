@@ -9,9 +9,9 @@
 <h3>Acesse o projeto</h3><a href="https://gustavocrs.github.io/portfolio/">Clique Aqui</a> 
 
 <div><p><h3>Linguagens</h3></p>
-<img alt="Icone HTML" src="./images/html.png"/> 
-<img alt="Icone CSS" src="./images/css.png"/> 
-<img alt="Icone Javascript" src="./images/js.png"/>
+<img alt="Icone HTML" src="./images/html.png" style="width:100px;height:100px"/> 
+<img alt="Icone CSS" src="./images/css.png" style="width:100px;height:100px"/> 
+<img alt="Icone Javascript" src="./images/js.png" style="width:100px;height:100px"/>
 </div>
 
 <p><h3>Autor:</h3> Gustavo Silva</p>
