@@ -8,6 +8,11 @@
 
 <a href="https://gustavocrs.github.io/portfolio/"> Clique e veja</a>
 
-<p>Linguagens</p> <img alt="Icone HTML" src="./img/banner.png"/> <img alt="Icone CSS" src="./img/banner.png"/> <img alt="Icone Javascript" src="./img/banner.png"/>
+<div>
+<p>Linguagens</p> 
+<img alt="Icone HTML" src="./img/banner.png"/> 
+<img alt="Icone CSS" src="./img/banner.png"/> 
+<img alt="Icone Javascript" src="./img/banner.png"/>
+</div>
 
 <p>Autor:Gustavo Silva</p>
