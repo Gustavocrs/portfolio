@@ -10,4 +10,4 @@ PRÓXIMO APRENDIZADO: Angular / SQL / .NET
 
 FONTE: Criação própria
 
-https://gustavocrs.github.io/portfolio3/
+https://gustavocrs.github.io/portfolio
