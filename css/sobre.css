@@ -2,12 +2,12 @@
 .divSobre {
     display: flex;
     align-items: center;
-    background: url("../images/fundo3.jpg");
+    background-color: var(--cor1);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
     height: 450px;
-}
+}  
 
 .fotoPerfil {
     width: 280px;
