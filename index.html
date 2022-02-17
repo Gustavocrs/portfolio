@@ -509,6 +509,7 @@
                         <textarea class="inputContatoText punchline" id="message" placeholder="Mensagem" name="message" required></textarea>
                         <input type="hidden" name="_captcha" value="false">
                         <input type="hidden" name="_next" value="false">
+			<input type="hidden" name="_template" value="table">
                         <div>
                             <button class="btn" onclick="Limpar()">Limpar</button>
                             <button class="btn" type="submit" onclick="Enviar()">Enviar</button>
@@ -537,22 +538,23 @@
     <footer class="divRodape">
         <p class="rodape">Copyright © - Gustavo Silva - Dev Front-end</p>
     </footer>
+	
     <script src="./js/script.js"></script>
     <script src="https://smtpjs.com/v3/smtp.js"></script>
     <script src="https://unpkg.com/scrollreveal@4"></script>
     <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
 
-	<script>
-		ScrollReveal().reveal('.headline', { delay: 100 });
-        ScrollReveal().reveal('.tagline', { delay: 300 });
-        ScrollReveal().reveal('.punchline', { delay: 500 });
-        ScrollReveal().reveal('.punchline1', { delay: 500 });
-        ScrollReveal().reveal('.punchline2', { delay: 600 });
-        ScrollReveal().reveal('.punchline3', { delay: 700 });
-        ScrollReveal().reveal('.punchline4', { delay: 800 });
-        ScrollReveal().reveal('.punchline5', { delay: 900 });
-        ScrollReveal().reveal('.punchline6', { delay: 1000 });
-	</script>
+    <script>
+	ScrollReveal().reveal('.headline', { delay: 100 });
+	ScrollReveal().reveal('.tagline', { delay: 300 });
+	ScrollReveal().reveal('.punchline', { delay: 500 });
+	ScrollReveal().reveal('.punchline1', { delay: 500 });
+	ScrollReveal().reveal('.punchline2', { delay: 600 });
+	ScrollReveal().reveal('.punchline3', { delay: 700 });
+	ScrollReveal().reveal('.punchline4', { delay: 800 });
+	ScrollReveal().reveal('.punchline5', { delay: 900 });
+	ScrollReveal().reveal('.punchline6', { delay: 1000 });
+    </script>
 
 </body>
 
